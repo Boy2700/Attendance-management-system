@@ -9,7 +9,7 @@
 <hr>
 <footer>
     <center>
-    <b>  <p>Allright reserved &copy; 2024 Attendance Management System || David</p> <b>
+    <b>  <p>Allright reserved &copy; 2024 Attendance Management System || David Bolaji</p> <b>
     </center>
    
 </footer>
